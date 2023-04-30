@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.imgmail{
+    width: 20px;
+    height: 20px;
+}
+nvmail{
+    flex-grow: 1;
+}
+.nav1{
+    display: flex;
+    background-color: black;
+    text-decoration-color: white;
+}
+nav{
+    display: inline;
+ 
+}
+.padre{
+    background-color: white;
+    display: flex;
+    height: 600px;
+    margin-top: 20px;
+}
+.img1{
+    flex-basis: 50%;
+    
+}
+.imgiz{
+    display: block;
+    border-radius: 8px;
+    width: 500px;
+    height: 580px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.login{
+    width: 550px;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 30px;
+    margin-top: 20px;
+    
+}
+.botones{
+   background-color: white;
+   display: flex;
+   height: 50px;
+
+}
+.b{
+    background-color: white;
+    align-items: center;
+    flex-grow: 1;
+}
+.b1{
+    color: white;
+    border: none;
+    width: 80px;
+    height: 40px;
+    border-radius: 12px;
+    margin: 4px 2px;
+}
+.logo1{
+    width: 70px;
+    height: 30px;
+}
+.lineamedia{
+    display: flex;
+    text-align: center;
+}
+.linea{
+  flex-grow: 1;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.buttonmail{
+    display: flex;
+    height: 40px;
+    justify-content: center;
+}
+.b2{
+    flex-basis: 50%;
+}
+.p1{
+    padding-top: 5px;
+}
+.bmail{
+    background-color: darkorange;
+    font-size: small;
+    border-radius: 12px;
+    width: 80px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    border: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.formlogin{
+    text-align: justify;
+    border: 1px solid black;
+    padding-top: 10px;
+}
+form{
+    text-align: center;
+}
+input{
+    width: 400px;
+    height: 40px;
+    border-radius: 4px;
+}
+.benviar{
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    background-color: darkorange;
+    text-align: center;
+    color: white;
+}
+.register{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.pr{
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+    color: darkorange;
+}
+
+
